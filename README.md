@@ -25,7 +25,6 @@ I build **ETL pipelines in SQL Server and Python**, model data into **star schem
 
 - 🏗️ Data & Information Systems Engineer at **MTE Group**, running ETL pipelines and a Medallion (Raw → Silver → Gold) data-quality framework
 - 📚 Deepening data engineering on **Databricks** and preparing for **Microsoft Fabric (DP-700)**
-- 🎓 Next milestone: a **European master’s degree** in data engineering and AI
 
 ### 🧭 What I do
 
