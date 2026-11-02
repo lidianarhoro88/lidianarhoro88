@@ -79,13 +79,6 @@ I build **ETL pipelines in SQL Server and Python**, model data into **star schem
 - Microsoft: Data Modeling in Power BI · SQL Foundations · Data Analysis and Visualization with Power BI
 - IBM Project Management Essentials · Deloitte Data Analytics Job Simulation · Google Analytics for Business
 
-### 📊 GitHub activity
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lidianarhoro88&show_icons=true&hide_border=true&bg_color=00000000&title_color=9A7633&icon_color=5C2E3E&text_color=8B7A80&count_private=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidianarhoro88&layout=compact&hide_border=true&bg_color=00000000&title_color=9A7633&text_color=8B7A80" alt="Top languages">
-</p>
-
 ### 🤝 Let’s connect
 
 Open to data engineering roles and remote collaboration. The fastest way to reach me is **[LinkedIn](https://www.linkedin.com/in/lidiana-houro/)** or **[lidiana.h.data@gmail.com](mailto:lidiana.h.data@gmail.com)**.
