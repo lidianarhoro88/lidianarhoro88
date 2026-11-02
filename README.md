@@ -24,7 +24,7 @@ I build **ETL pipelines in SQL Server and Python**, model data into **star schem
 ### 🔭 Currently
 
 - 🏗️ Data & Information Systems Engineer at **MTE Group**, running ETL pipelines and a Medallion (Raw → Silver → Gold) data-quality framework
-- 📚 Deepening data engineering on **Databricks** and preparing for **Microsoft Fabric (DP-700)**
+- 📚 Building with **dbt and DuckDB**, and preparing for **Microsoft Fabric (DP-700)**
 
 ### 🧭 What I do
 
@@ -39,11 +39,14 @@ I build **ETL pipelines in SQL Server and Python**, model data into **star schem
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**Logistics Performance Analytics**](https://github.com/lidianarhoro88/logistics-analytics-sql-powerbi) | Messy CSVs → raw / clean / mart star schema → 3-page dashboard. 66% on time; four drivers behind most delays. | SQL Server · T-SQL · Power BI · DAX |
-| [**Coffee Shop Data Warehouse**](https://github.com/lidianarhoro88/coffee-shop-data-warehouse) | Bronze → Silver → Gold warehouse for a 5-branch chain, joining POS and loyalty data. | PostgreSQL · SQL · Python · Power BI |
-| [**Executive Sales & Profit Dashboard**](https://github.com/lidianarhoro88/sales-profit-executive-dashboard) | One HTML file: 7 live KPIs, 7 charts, 8 filters over 500 orders. | JavaScript · Chart.js |
-| [**E-commerce Sales Dashboard (Excel)**](https://github.com/lidianarhoro88/ecommerce-sales-dashboard-excel) | 31k-row raw export cleaned and turned into a formula-driven dashboard. No pivots, no VBA. | Excel |
-| [**SQL Data Warehouse (course)**](https://github.com/lidianarhoro88/sql-data-warehouse-project) | Hands-on build of Data With Baraa’s modern data warehouse course, credited to the author. | SQL Server · T-SQL |
+| [**Pharma Distribution Analytics**](https://github.com/lidianarhoro88/pharma-distribution-dbt) · [dbt docs](https://lidianarhoro88.github.io/pharma-distribution-dbt/) | ERP extracts → tested star schema with SCD Type 2, OTIF and expiry-loss marts. 39 data tests in CI. | dbt · DuckDB · SQL |
+| [**Construction Cost Control**](https://github.com/lidianarhoro88/construction-cost-control) · [live dashboard](https://lidianarhoro88.github.io/construction-cost-control/) | Earned value for six projects: CPI, SPI, EAC and TCPI per work package, S-curves and change orders. | DuckDB · SQL · Chart.js |
+| [**TCMB FX Rates Pipeline**](https://github.com/lidianarhoro88/tcmb-fx-rates-pipeline) · [live dashboard](https://lidianarhoro88.github.io/tcmb-fx-rates-pipeline/) | Incremental, idempotent daily load of Central Bank of Türkiye rates on GitHub Actions, with quality checks. | Python · DuckDB · GitHub Actions |
+| [**Invoice Intake Automation**](https://github.com/lidianarhoro88/invoice-intake-automation) | Supplier PDF invoices → 14 validation rules against vendor and PO data → booked or exceptions queue. | Python · pdfplumber · SQLite |
+| [**Logistics Performance Analytics**](https://github.com/lidianarhoro88/logistics-analytics-sql-powerbi) | Messy CSVs → raw / clean / mart star schema → 3-page dashboard. 66% on time; four drivers behind most delays. | SQL Server · Power BI · DAX |
+| [**Coffee Shop Data Warehouse**](https://github.com/lidianarhoro88/coffee-shop-data-warehouse) | Bronze → Silver → Gold warehouse for a 5-branch chain, joining POS and loyalty data. | PostgreSQL · SQL · Power BI |
+| [**CSV Data Profiler**](https://github.com/lidianarhoro88/csv-data-profiler) | One command to score any CSV or Excel file and produce an HTML data quality report; doubles as a CI gate. | Python · Pandas |
+| [**Executive Sales & Profit Dashboard**](https://github.com/lidianarhoro88/sales-profit-executive-dashboard) · [live](https://lidianarhoro88.github.io/sales-profit-executive-dashboard/) | One HTML file: 7 live KPIs, 7 charts, 8 filters over 500 orders. | JavaScript · Chart.js |
 
 👉 Full case studies, dashboards and project stories: **[lidiana-houro.vercel.app](https://lidiana-houro.vercel.app)**
 
@@ -54,7 +57,9 @@ I build **ETL pipelines in SQL Server and Python**, model data into **star schem
   <img src="https://img.shields.io/badge/PostgreSQL-5C2E3E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-5C2E3E?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-5C2E3E?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Databricks-5C2E3E?style=flat-square&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/dbt-5C2E3E?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/DuckDB-5C2E3E?style=flat-square&logo=duckdb&logoColor=white" alt="DuckDB">
+  <img src="https://img.shields.io/badge/GitHub_Actions-5C2E3E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Power_BI-9A7633?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/DAX-9A7633?style=flat-square" alt="DAX">
   <img src="https://img.shields.io/badge/Power_Query-9A7633?style=flat-square" alt="Power Query">
